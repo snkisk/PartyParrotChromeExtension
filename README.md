@@ -1,2 +1,2 @@
 # PartyParrotChromeExtension
-PartyParrotがポップアップで踊ります。
+PartyParrotがChrome拡張のポップアップで踊ります。
