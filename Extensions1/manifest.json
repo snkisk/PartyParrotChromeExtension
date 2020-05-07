@@ -1,0 +1,14 @@
+{
+    
+"manifest_version": 2,
+"name": "Party Parrot",
+"version": "1.0",
+"icons":{
+    "16": "parrot_t.png",
+    "48": "parrot_t.png",
+    "128": "parrot_t.png"
+},
+    "browser_action": {
+   "default_popup": "parrot.html"
+ }
+}
